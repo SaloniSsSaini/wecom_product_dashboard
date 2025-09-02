@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Weecom Product Dashboard - ZIP (Supabase + DummyJSON scaffold)
 
 Instructions:
@@ -14,3 +15,6 @@ Notes:
 - DummyJSON (https://dummyjson.com) is used for public product reads.
 - Supabase is used for persistent CRUD (set up 'products' table in your Supabase project).
 - This scaffold is minimal and intended as a starting point. Add RLS policies, Auth flows, and tests as needed.
+=======
+# wecom_product_dashboard
+>>>>>>> d0e1ace2716139911e9a33a2eff995d239f190f6
